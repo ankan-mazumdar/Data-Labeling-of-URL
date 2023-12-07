@@ -1,0 +1,10 @@
+url,url_length,hostname_length,count-,count@,count-https,count-www,count-digits,count-letters,count_dir,label
+https://www.google.com,22,14,0,0,1,1,0,17,0,0
+https://www.youtube.com,23,15,0,0,1,1,0,18,0,0
+https://www.malicious.gdn,56,17,2,0,0,0,1,45,3,1
+http://www.fakewebsite.tech,72,19,1,0,0,0,7,52,7,1
+http://gangainsulations.com/alert/GD/,37,20,0,0,0,0,0,30,3,1
+https://qiumin.xyz/qiuminxy/o95j4uW4nr/5.php,44,10,0,0,1,0,5,31,3,1
+http://ecct-it.com/docmmmnn/aptgd/index.php,43,11,1,0,0,0,0,34,3,1
+http://faboleena.com/js/infortis/jquery/plugins/minicolors/Ameli/PortailAS/appmanager/PortailAS/assure_somtc=true/018ad7352b902f40e0e37b0f53cf47fc/index_2.html,159,13,0,0,0,0,21,118,12,1
+http://faboleena.com/js/infortis/jquery/plugins/minicolors/Ameli/PortailAS/appmanager/PortailAS/assure_somtc=true/018ad7352b902f40e0e37b0f53cf47fc/,147,13,0,0,0,0,20,109,12,1
